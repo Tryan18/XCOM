@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/CheckOverview.java</file>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/MainOverview.java</file>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/PacketVerificationService.java</file>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/XCOM_server.java</file>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/OutboundPacketHandler.java</file>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/Utils.java</file>
+            <file>file:/home/ubuntu/NetBeansProjects/XCOM_server/src/xcom_server/InboundPacketHandler.java</file>
+        </group>
+    </open-files>
+</project-private>
