@@ -1,0 +1,16 @@
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\PacketDotNet.xml
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\SharpPcap.xml
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\SharpPcap.dll.config
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\Xcom_client.exe
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\Xcom_client.pdb
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\PacketDotNet.dll
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\SharpPcap.dll
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\Thrift.dll
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\ThriftPacketService.dll
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\bin\Debug\ThriftPacketService.pdb
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\obj\Debug\Xcom_client.csprojResolveAssemblyReference.cache
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\obj\Debug\Xcom_client.Form1.resources
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\obj\Debug\Xcom_client.Properties.Resources.resources
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\obj\Debug\Xcom_client.csproj.GenerateResource.Cache
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\obj\Debug\Xcom_client.exe
+c:\users\testclient\documents\visual studio 2012\Projects\Xcom_client\Xcom_client\obj\Debug\Xcom_client.pdb

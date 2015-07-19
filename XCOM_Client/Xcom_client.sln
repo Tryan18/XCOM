@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xcom_client", "Xcom_client\Xcom_client.csproj", "{3D65051E-FC70-4DF3-9EB4-88EC9176F39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftPacketService", "\\VBOXSVR\share\MJSniffer\ThriftPacketService\ThriftPacketService.csproj", "{90E2BE77-2A4A-45DE-AD2A-D0B684DF8BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D65051E-FC70-4DF3-9EB4-88EC9176F39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D65051E-FC70-4DF3-9EB4-88EC9176F39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D65051E-FC70-4DF3-9EB4-88EC9176F39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D65051E-FC70-4DF3-9EB4-88EC9176F39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E2BE77-2A4A-45DE-AD2A-D0B684DF8BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E2BE77-2A4A-45DE-AD2A-D0B684DF8BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E2BE77-2A4A-45DE-AD2A-D0B684DF8BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E2BE77-2A4A-45DE-AD2A-D0B684DF8BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
